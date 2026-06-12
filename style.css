@@ -9,3 +9,11 @@ header{
     margin: 20px;
     padding: ;
 }
+main{
+display: flex;
+}
+article{
+    background-color: lightcyan;
+    color: pink;
+    text-align: justify;
+}
